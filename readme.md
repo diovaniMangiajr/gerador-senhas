@@ -66,6 +66,12 @@ Você precisa ter o [Python 3.x](https://www.python.org/downloads/) instalado em
    ```bash
    pip install customtkinter
    ```
+   
+   No ambiente Ubuntu é importante instalar o `tkinter` também.
+   ```bash
+   sudo apt-get update
+   sudo apt install python3-tk
+   ``
 
 4. **Execute a aplicação**
    ```bash

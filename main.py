@@ -1,4 +1,5 @@
-import interface
+from interface import App
 
 if __name__ == "__main__":
-    interface.janela.mainloop()
+    app = App()
+    app.mainloop()
